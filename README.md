@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
