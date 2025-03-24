@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -22,6 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -51,4 +55,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0092-reverse-linked-list-ii) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
