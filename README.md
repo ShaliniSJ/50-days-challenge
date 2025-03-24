@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
