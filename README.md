@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
