@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0207-course-schedule) |
+| [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 ## Graph
 |  |
 | ------- |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
