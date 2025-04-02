@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
