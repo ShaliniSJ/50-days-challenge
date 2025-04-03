@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0322-coin-change) |
+| [0198-house-robber](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0322-coin-change) |
+| [0198-house-robber](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
