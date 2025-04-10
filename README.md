@@ -89,22 +89,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0322-coin-change) |
+| [0226-invert-binary-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0207-course-schedule) |
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
