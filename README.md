@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0198-house-robber) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0005-longest-palindromic-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +158,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
