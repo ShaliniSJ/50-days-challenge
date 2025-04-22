@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0092-reverse-linked-list-ii) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
+| [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Design
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Quickselect
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
