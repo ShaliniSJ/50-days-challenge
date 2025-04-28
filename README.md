@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 | [0077-combinations](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0077-combinations) |
+| [0051-n-queens](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
