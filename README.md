@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 | [0005-longest-palindromic-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## Sorting
 |  |
 | ------- |
