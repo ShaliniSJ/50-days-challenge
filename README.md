@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0021-merge-two-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Design
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
