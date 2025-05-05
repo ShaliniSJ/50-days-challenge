@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 | [0005-longest-palindromic-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0076-minimum-window-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0923-super-egg-drop](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0923-super-egg-drop) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0021-merge-two-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Design
 |  |
 | ------- |
@@ -133,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0079-word-search) |
 | [0077-combinations](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0077-combinations) |
+| [0051-n-queens](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0923-super-egg-drop](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0923-super-egg-drop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0923-super-egg-drop](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0923-super-egg-drop) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
