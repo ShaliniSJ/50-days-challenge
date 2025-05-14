@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0042-trapping-rain-water](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0155-min-stack](https://github.com/ShaliniSJ/50-days-challenge/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
